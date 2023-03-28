@@ -1,5 +1,21 @@
-Look at the file titled titled "Match This Output.png" in this directory.
+* This is a list item
 
-Use this space to create some RST that matches the screenshot.
+  #. With a numbered sub-bullet
+  #. And Another!
+  
+* Back to the list!
+* This list is cool!
 
-First... delete all this text!
+  * Sub-Bullet that isn't a number
+  * And one more
+  
+  *Can we do the reverse?*
+  
+#. A numbered list
+#. With an item:
+
+   * that has a sub-bullet
+   * And another
+   * without numbers
+  
+#. Well that was cool!
